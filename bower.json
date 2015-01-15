@@ -1,0 +1,17 @@
+{
+  "name": "Multivision",
+  "version": "0.0.0",
+  "description": "\"some new project\"",
+  "authors": [
+    "Vibhu"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.1.0",
+    "angular": "~1.3.6",
+    "angular-resource": "~1.3.6",
+    "angular-route": "~1.3.6"
+  }
+}
