@@ -1,3 +1,3 @@
-/**
- * Created by Vibhu on 3/1/2015.
- */
+angular.module('app').controller('mvUserListCtrl', function($scope, mvUser) {
+    $scope.users = mvUser.query();
+});
